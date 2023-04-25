@@ -19,6 +19,8 @@ body {
 }
 
 .imagem {
+    max-width: 500px;
+    max-height: 500px;
     border-radius: 1rem;
     transition: transform .2s;
 }
